@@ -7,8 +7,6 @@
 .idea/vcs.xml
 .idea/workspace.xml
 binlog-pop.iml
-pom.xml
-samples/pom.xml
 .idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml
 .idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml
 .idea/libraries/Maven__com_101tec_zkclient_0_10.xml
