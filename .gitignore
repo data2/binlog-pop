@@ -54,3 +54,5 @@ binlog-pop.iml
 pop-core/pop-core.iml
 pop-ui/pop-ui.iml
 pop-samples/pop-samples.iml
+.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml
+.idea/libraries/Maven__com_alibaba_druid_1_2_6.xml
